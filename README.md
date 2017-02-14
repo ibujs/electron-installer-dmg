@@ -3,15 +3,27 @@
 > Create DMG installers for your electron apps using [appdmg][appdmg].
 
 ## Installation
-
+Using NPM.
 ```
 # For use in npm scripts
-npm i electron-installer-dmg --save-dev
+npm i appdmg --save-optional
+npm i electron-installer-dmg-yarn --save-dev
 
 # For use from cli
-npm i electron-installer-dmg -g
+npm i appdmg -g
+npm i electron-installer-dmg-yarn -g
 ```
 
+Using yarn.
+```
+# For use in npm scripts
+yarn add appdmg -O
+yarn add electron-installer-dmg-yarn -D
+
+# For use from cli
+yarn global add appdmg
+yarn global add electron-installer-dmg-yarn
+```
 ## Usage
 
 ```

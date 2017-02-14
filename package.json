@@ -1,12 +1,12 @@
 {
-  "name": "electron-installer-dmg",
+  "name": "electron-installer-dmg-yarn",
   "description": "Create DMG installers for your electron apps.",
-  "version": "0.2.0",
+  "version": "0.2.0-yarn-patch",
   "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
-  "homepage": "http://github.com/mongodb-js/electron-installer-dmg",
+  "homepage": "http://github.com/ibujs/electron-installer-dmg",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/electron-installer-dmg.git"
+    "url": "git://github.com/ibujs/electron-installer-dmg.git"
   },
   "scripts": {
     "test": "mocha",
@@ -23,9 +23,6 @@
   "dependencies": {
     "debug": "^2.2.0",
     "minimist": "^1.1.1"
-  },
-  "optionalDependencies": {
-    "appdmg": "^0.4.5"
   },
   "license": "Apache-2.0",
   "devDependencies": {
