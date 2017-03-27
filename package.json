@@ -1,7 +1,7 @@
 {
   "name": "electron-installer-dmg-yarn",
   "description": "Create DMG installers for your electron apps.",
-  "version": "0.2.0-yarn3",
+  "version": "0.2.1",
   "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
   "homepage": "http://github.com/ibujs/electron-installer-dmg",
   "repository": {
