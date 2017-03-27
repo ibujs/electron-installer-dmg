@@ -1,5 +1,6 @@
 # electron-installer-dmg [![travis][travis_img]][travis_url] [![npm][npm_img]][npm_url]
-
+## This will soon be deprecated and will no longer be updated when yarn v0.23.0 hits stable.
+## See yarnpkg/yarn#1435, which fixes the issue this package aims to fix :D
 > Create DMG installers for your electron apps using [appdmg][appdmg].
 
 ## Installation
